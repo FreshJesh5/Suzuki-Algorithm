@@ -1,0 +1,3 @@
+﻿  contoursv1.cpp
+d:\programming\opencv\contoursv1\contoursv1\contoursv1.cpp(179): warning C4715: 'chooseColor': not all control paths return a value
+  contoursv1.vcxproj -> D:\Programming\opencv\contoursv1\Debug\contoursv1.exe
